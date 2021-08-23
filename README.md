@@ -1,5 +1,7 @@
 # E-commerce
 
+* Created models and routes for the back end of an ecommerce website. Using sequelize the application allows the models to communicate with the database in the backend.
+
 # Videos
 
 * https://user-images.githubusercontent.com/84109630/130388546-bf96eaf8-0db8-4221-842c-4e7a4f355f36.mov
