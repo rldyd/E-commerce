@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce
 
 * Created models and routes for the back end of an ecommerce website. Using sequelize the application allows the models to communicate with the database in the backend.
 
